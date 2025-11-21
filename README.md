@@ -78,8 +78,3 @@ Librairies utilisées : [TimerCam Arduino](https://github.com/m5stack/TimerCam-a
 - MariaDB/MySQL
 - Flask
 
-### Étapes
-1. Cloner le dépôt :
-   ```bash
-   git clone https://github.com/<user>/nichoir-connecte.git
-   cd nichoir-connecte
